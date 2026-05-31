@@ -82,15 +82,7 @@ Dense(1) → prix prédit (USD)
 
 ---
 
-## ⚠️ Disclaimer
-
-Ce projet est à but **éducatif et de portfolio uniquement**.  
-Le modèle ne doit pas être utilisé pour prendre des décisions financières réelles.  
-La Directional Accuracy (~50%) confirme que la direction hausse/baisse reste imprévisible avec ces seules features.
-
----
-
 ## 👨‍💻 Auteur
 
-**Paul Cioban** — Projet TP Deep Learning LSTM  
+**Mircea Paul Cioban** — Projet TP Deep Learning LSTM  
 École IA Microsoft x Simplon
